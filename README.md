@@ -12,7 +12,7 @@ Recent projects that I've been pursuing:
 
 - 🍷 [wine-cellar](https://github.com/blazQ/mpi-word-count): A serverless architecture for a home wine cellar, using AWS services emulated through Localstack.
 - 📕 [mpi-word-count](https://github.com/blazQ/wine-cellar): A basic C Open-MPI implementation for parallelizing the word counting problem.
-- ♬ DeepScoresV2 implementation to translate musical scores into musicXML format
+- ♬ [pentakey-dolores](https://github.com/blazQ/pentakey-dolores): A prototype for a web application that, backed by a darknet YOLOv3 RNN, can recognize musical score sheets and parse a MXML file for use in tools like [MuseScore](https://musescore.org/) 
 - ⚙️ Hardware Modding: Modifying older consoles and experimenting with circuits for future IoT projects. You can see a tiny example [here](img/20230819_120601.jpg).
 
 ## Tech Stack
