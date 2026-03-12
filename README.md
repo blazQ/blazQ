@@ -1,14 +1,14 @@
 # About me
 
-👋 Hi, I'm Pietro and I'm a Computer Science graduate.
+👋 Hi, I'm Pietro. I'm currently employed as a Cloud Engineer, but I'm very interested in Game Development and Computer Graphics.
 
-🖌️ I'm your typical computer person, with a tiny bit of artistic tendencies.
+🖌️ I'm a computer nerd, as can be expected, but I also like art and the humanities in general. I'd like to make contributing to FOSS at least part of my future career.
 
-🌩️ I'm currently studying and working hard to become a game developer, using Unity and Godot.
+🌩️ I'm currently studying and working hard towards my main interests: game development and computer graphics. I still have to refine my tech stack: I'm currently all over the place, but as time goes on I'll focus on less things. I hope Vulkan and Godot.
 
-🧰 I also enjoy fiddling with different programming languages, engines, algorithms and everything related to CS.
+🧰 I like solving problems and facing different challenges, pertaining to my interests. If I'm obsessed over something, even problems will taste sweet. I want to learn and get better at what I do.
 
-Recent projects that I've been pursuing:
+A couple of small university and personal projects:
 - 🌊 [rustic-wave-function-collapse](https://github.com/blazQ/rustic-wave-function-collapse): A Rust port of the WFC algorithm, used in procedural generation.
 - ♦️ [napoleon-solitaire](https://github.com/blazQ/napoleon-solitaire): A Godot implementation of a classic Solitaire game, made as an entry point to the engine. I hope it will evolve in a fully fledged game.
 - 🍷 [wine-cellar](https://github.com/blazQ/mpi-word-count): A serverless architecture for a home wine cellar, using AWS services emulated through Localstack.
